@@ -8,7 +8,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: #000 url('/imagens/cropped-1440-900-1123013.jpg') no-repeat right top;
+    background: #c107a5e0 url('/imagens/cropped-1440-900-1123013.jpg') no-repeat right top;
     background-size: cover;
     display: flex;
     align-items: center;
